@@ -11,3 +11,4 @@ $this->title = 'Акции';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <h1>Акции</h1>
+<p>Акций нет</p>
